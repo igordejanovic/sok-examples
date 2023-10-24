@@ -11,8 +11,8 @@ javac **/*.java
 And run with:
 
 ``` sh
-java composite.CompositeTest
+java factorymethod.FactoryMethodTest
 // or
-java proxy.ProxyTest
+java prototype.PrototypeClient
 ```
 
